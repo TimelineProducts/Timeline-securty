@@ -1,1 +1,1 @@
-<!-- Obfuscated on https://www.phpkobo.com/html-obfuscator -->
+Obfuscated on https://www.phpkobo.com/html-obfuscator
